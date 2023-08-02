@@ -1,5 +1,7 @@
 # distance-jump
 
+download [Max](https://cycling74.com/downloads)
+
 run `jump.maxpat` to process sensor signals
 
 ## initial setup
