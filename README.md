@@ -2,6 +2,8 @@
 
 download [Max](https://cycling74.com/downloads)
 
+download this repository
+
 run `jump.maxpat` to process sensor signals
 
 ## initial setup
