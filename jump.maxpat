@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 85.0, 1852.0, 929.0 ],
+		"rect" : [ 150.0, 85.0, 1852.0, 929.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -67,12 +67,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-49",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 931.5, 672.0, 55.0, 22.0 ],
-					"text" : "/jump9 1"
+					"patching_rect" : [ 931.5, 672.0, 58.999998569488525, 36.0 ],
+					"text" : "/jump9 1, /jump9 0"
 				}
 
 			}
@@ -105,12 +106,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-52",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 864.5, 672.0, 55.0, 22.0 ],
-					"text" : "/jump8 1"
+					"patching_rect" : [ 864.5, 672.0, 58.999998569488525, 36.0 ],
+					"text" : "/jump8 1, /jump8 0"
 				}
 
 			}
@@ -143,12 +145,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-55",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 797.5, 672.0, 55.0, 22.0 ],
-					"text" : "/jump7 1"
+					"patching_rect" : [ 797.5, 672.0, 58.999998569488525, 36.0 ],
+					"text" : "/jump7 1, /jump7 0"
 				}
 
 			}
@@ -181,12 +184,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-40",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 844.0, 606.0, 55.0, 22.0 ],
-					"text" : "/jump6 1"
+					"patching_rect" : [ 844.0, 606.0, 58.999998569488525, 36.0 ],
+					"text" : "/jump6 1, /jump6 0"
 				}
 
 			}
@@ -219,12 +223,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-43",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 777.0, 606.0, 55.0, 22.0 ],
-					"text" : "/jump5 1"
+					"patching_rect" : [ 777.0, 606.0, 58.999998569488525, 36.0 ],
+					"text" : "/jump5 1, /jump5 0"
 				}
 
 			}
@@ -257,12 +262,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-46",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 710.0, 606.0, 55.0, 22.0 ],
-					"text" : "/jump4 1"
+					"patching_rect" : [ 710.0, 606.0, 58.999998569488525, 36.0 ],
+					"text" : "/jump4 1, /jump4 0"
 				}
 
 			}
@@ -295,12 +301,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-37",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 818.0, 544.0, 55.0, 22.0 ],
-					"text" : "/jump3 1"
+					"patching_rect" : [ 818.0, 544.0, 59.666665256023407, 36.0 ],
+					"text" : "/jump3 1, /jump3 0"
 				}
 
 			}
@@ -333,12 +340,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-16",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 751.0, 544.0, 55.0, 22.0 ],
-					"text" : "/jump2 1"
+					"patching_rect" : [ 751.0, 544.0, 58.999998569488525, 36.0 ],
+					"text" : "/jump2 1, /jump2 0"
 				}
 
 			}
@@ -371,12 +379,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-15",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 684.0, 544.0, 55.0, 22.0 ],
-					"text" : "/jump1 1"
+					"patching_rect" : [ 684.0, 544.0, 60.333331942558289, 36.0 ],
+					"text" : "/jump1 1, /jump1 0"
 				}
 
 			}
@@ -386,7 +395,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 681.0, 709.0, 135.0, 22.0 ],
+					"patching_rect" : [ 684.0, 727.666667222976685, 135.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 60.5, 261.0, 135.0, 22.0 ],
 					"text" : "udpsend localhost 9999"
@@ -1161,7 +1170,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "relbang.maxpat",
-				"bootpath" : "~/Documents/GitHub/distance-jump",
+				"bootpath" : "~/Documents/distance-jump",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
